@@ -1,20 +1,20 @@
-.box{
+.space{
     background-image: url("h_img.jpg");
 }
-.box{
-    padding-left:37%;
-    padding-top:20%;
+.space{
+    padding-left:35%;
+    padding-top:25%;
     font-size:0.5cm;
 }
-.box>h1{
+.space>h1{
     color: whitesmoke;
 }
-.box>p{
+.space>p{
     color:white;
 }
 .mouse{
-    padding-left:47%;
-    padding-top: 6%;
+    padding-left:50%;
+    padding-top: 10%;
 }
 .example{
     text-align: center;
@@ -100,4 +100,7 @@ h4{
 }
 .social{
   text-align: center;
+}
+.abd{
+padding-left: 50%
 }

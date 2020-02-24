@@ -1,16 +1,20 @@
-
 $(document).ready(function() {
 $(".abuu").click(function() {
-$(".wilder").show();
-$(".abo").click(function() {
-$(".aguero").show();
-$(".semi").click(function() {
-$(".silva").show();
+$(".wilder").hide();
+$(".wilder").slideDown();
+$(".wilder").toggle();
 });
+$(".abo").click(function(){
+$(".aguero").hide();
+$(".aguero").fadeIn()
+$(".aguero").toggle();
 });
+$(".semi").click(function(){
+$(".silva").hide();
+$(".silva").fadeIn()
+$(".silva").toggle();
 });
-});
-function submitContactForm(){
+});function submitContactForm(){
 var name = document.querySelector("#name").value;
 const data = {
 user: 'example',
