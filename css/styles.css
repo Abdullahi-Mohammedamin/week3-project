@@ -2,14 +2,22 @@
     background-image: url("h_img.jpg");
 }
 .space{
-    padding-left:35%;
-    padding-top:25%;
-    font-size:0.5cm;
+    padding-left:25%;
+    padding-top:18%;
+    font-size:0.4cm;
+}
+.space>css/img/logo.png{
+  text-align: center;
+  padding-left: 65%:
+}
+.space>h1{
+  text-align: center;
 }
 .space>h1{
     color: whitesmoke;
 }
 .space>p{
+    text-align: center;
     color:white;
 }
 .mouse{
