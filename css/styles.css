@@ -1,0 +1,103 @@
+.box{
+    background-image: url("h_img.jpg");
+}
+.box{
+    padding-left:37%;
+    padding-top:20%;
+    font-size:0.5cm;
+}
+.box>h1{
+    color: whitesmoke;
+}
+.box>p{
+    color:white;
+}
+.mouse{
+    padding-left:47%;
+    padding-top: 6%;
+}
+.example{
+    text-align: center;
+    background-image: url("s_image.jpg");
+    padding-top: 10%; ;
+}
+
+.example>h2{
+    text-align:center;
+    color: white;
+}
+.example>p{
+    padding-bottom: 20%;
+    color: whitesmoke;
+}
+.dev{
+    padding-left: 490px;
+    padding-top:0mm;
+    position: relative;
+}
+h3{
+    text-align: center;
+}
+#images{
+    float: left;;
+}
+h4{
+    text-align: center;
+}
+.contact{
+    background-image: url("c_image.jpg");
+    padding-top: 5%;
+    height: 500px;
+    margin-top: 2%;
+}
+.contact .form {
+    margin-left: 342px;
+}
+.form #message{
+    width: 55%;
+    height: 255px;
+}
+.contact>p{
+    padding-top: 3%;
+    text-align: center;
+
+}
+#imagetwo{
+    float:right;
+}
+#imageone{
+    padding-left: 40%;
+}
+h4{
+    color: whitesmoke;
+}
+.wilder{
+    display: none;
+}
+.abu{
+  text-align: center;
+}
+.akiba{
+  text-align: center;
+}
+.abud{
+  text-align: right;
+}
+.abuu{
+  cursor: pointer;
+}
+.abo{
+  cursor: pointer;
+}
+.aguero{
+  display: none;
+}
+.semi{
+  cursor: pointer;
+}
+.silva{
+  display: none;
+}
+.social{
+  text-align: center;
+}
