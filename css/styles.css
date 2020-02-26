@@ -1,14 +1,14 @@
+
 .space{
+  text-align: center;
   background-image: url("h_img.jpg");
-}
-.space{
-  padding-left:25%;
-  padding-top:18%;
+  padding-left:5%;
+  padding-top:20%;
   font-size:0.4cm;
 }
 .space>css/img/logo.png{
   text-align: center;
-  padding-left: 65%:
+  padding-left: 5%:
 }
 .space>h1{
   text-align: center;
@@ -111,4 +111,12 @@ h4{
 }
 .abd{
   padding-left: 50%
+}
+
+.container{
+}
+#ending{
+  opacity: 0.2;
+  padding-right: 5%;
+  padding-left: 5%;
 }

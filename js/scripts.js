@@ -24,6 +24,7 @@ $(document).ready(function() {
     $(".silva").toggle();
   });
 });
+
 function submitContactForm(){
   var name = document.querySelector("#name").value;
   const data = {
