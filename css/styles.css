@@ -1,9 +1,8 @@
 .space{
+  text-align: center;
   background-image: url("h_img.jpg");
-}
-.space{
-  padding-left:25%;
-  padding-top:18%;
+  padding-left:0%;
+  padding-top:20%;
   font-size:0.4cm;
 }
 .space>css/img/logo.png{
@@ -84,6 +83,7 @@ h4{
 }
 .abu{
   text-align: center;
+  font-family: sans-serif;
 }
 .akiba{
   text-align: center;
@@ -111,4 +111,13 @@ h4{
 }
 .abd{
   padding-left: 50%
+}
+#abb{
+  opacity: 0.3;
+}
+.ed{
+  text-align: center;
+}
+.wq{
+  text-align: center;
 }
