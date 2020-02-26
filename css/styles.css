@@ -33,7 +33,6 @@
   background-image: url("s_image.jpg");
   padding-top: 10%; ;
 }
-
 .example>h2{
   text-align:center;
   color: white;
@@ -72,7 +71,6 @@ h4{
 .contact>p{
   padding-top: 3%;
   text-align: center;
-
 }
 #imagetwo{
   float:right;
@@ -119,6 +117,7 @@ h4{
 }
 .container{
 }
+<<<<<<< HEAD
 #ending{
   opacity: 0.2;
   padding-right: 5%;
@@ -133,3 +132,61 @@ h4{
   .wq{
     text-align: center;
   }
+=======
+#work4-overlay {
+  text-align: center;
+  background-image: url("s_image.jpg");
+  display: none;
+  height: 241px;
+  padding-top: 115px;
+}
+#work3-overlay {
+  text-align: center;
+  background-color: #6b5947;
+  display: none;
+  height: 241px;
+  padding-top: 115px;
+}
+#work2-overlay {
+  text-align: center;
+  background-color: #f0a861;
+  display: none;
+  height: 241px;
+  padding-top: 115px;
+}
+#work1-overlay {
+  text-align: center;
+  background-color: #cdee99;
+  display: none;
+  height: 241px;
+  padding-top: 115px;
+}
+#work5-overlay {
+  text-align: center;
+  background-color: #2e4e39;
+  display: none;
+  height: 241px;
+  padding-top: 115px;
+}
+#work6-overlay {
+  text-align: center;
+  background-color: #e1afeb;
+  display: none;
+  height: 241px;
+  padding-top: 115px;
+}
+#work7-overlay {
+  text-align: center;
+  background-color: #bb4a5d13;
+  display: none;
+  height: 241px;
+  padding-top: 115px;
+}
+#work8-overlay {
+  text-align: center;
+  background-color: purple;
+  display: none;
+  height: 241px;
+  padding-top: 115px;
+}
+>>>>>>> master
