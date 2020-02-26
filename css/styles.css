@@ -2,11 +2,11 @@
 .space{
   text-align: center;
   background-image: url("h_img.jpg");
-<<<<<<< HEAD
+  <<<<<<< HEAD
   padding-left:5%;
-=======
+  =======
   padding-left:0%;
->>>>>>> master
+  >>>>>>> master
   padding-top:20%;
   font-size:0.4cm;
 }
@@ -117,22 +117,19 @@ h4{
 .abd{
   padding-left: 50%
 }
-<<<<<<< HEAD
-
 .container{
 }
 #ending{
   opacity: 0.2;
   padding-right: 5%;
   padding-left: 5%;
-=======
-#abb{
-  opacity: 0.3;
-}
-.ed{
-  text-align: center;
-}
-.wq{
-  text-align: center;
->>>>>>> master
-}
+
+  #abb{
+    opacity: 0.3;
+  }
+  .ed{
+    text-align: center;
+  }
+  .wq{
+    text-align: center;
+  }
