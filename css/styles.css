@@ -1,10 +1,10 @@
 .space{
-    background-image: url("h_img.jpg");
+  background-image: url("h_img.jpg");
 }
 .space{
-    padding-left:25%;
-    padding-top:18%;
-    font-size:0.4cm;
+  padding-left:25%;
+  padding-top:18%;
+  font-size:0.4cm;
 }
 .space>css/img/logo.png{
   text-align: center;
@@ -14,73 +14,73 @@
   text-align: center;
 }
 .space>h1{
-    color: whitesmoke;
+  color: whitesmoke;
 }
 .space>p{
-    text-align: center;
-    color:white;
+  text-align: center;
+  color:white;
 }
 .mouse{
-    padding-left:50%;
-    padding-top: 10%;
+  padding-left:50%;
+  padding-top: 10%;
 }
 .example{
-    text-align: center;
-    background-image: url("s_image.jpg");
-    padding-top: 10%; ;
+  text-align: center;
+  background-image: url("s_image.jpg");
+  padding-top: 10%; ;
 }
 
 .example>h2{
-    text-align:center;
-    color: white;
+  text-align:center;
+  color: white;
 }
 .example>p{
-    padding-bottom: 20%;
-    color: whitesmoke;
+  padding-bottom: 20%;
+  color: whitesmoke;
 }
 .dev{
-    padding-left: 490px;
-    padding-top:0mm;
-    position: relative;
+  padding-left: 490px;
+  padding-top:0mm;
+  position: relative;
 }
 h3{
-    text-align: center;
+  text-align: center;
 }
 #images{
-    float: left;;
+  float: left;;
 }
 h4{
-    text-align: center;
+  text-align: center;
 }
 .contact{
-    background-image: url("c_image.jpg");
-    padding-top: 5%;
-    height: 500px;
-    margin-top: 2%;
+  background-image: url("c_image.jpg");
+  padding-top: 5%;
+  height: 500px;
+  margin-top: 2%;
 }
 .contact .form {
-    margin-left: 342px;
+  margin-left: 342px;
 }
 .form #message{
-    width: 55%;
-    height: 255px;
+  width: 55%;
+  height: 255px;
 }
 .contact>p{
-    padding-top: 3%;
-    text-align: center;
+  padding-top: 3%;
+  text-align: center;
 
 }
 #imagetwo{
-    float:right;
+  float:right;
 }
 #imageone{
-    padding-left: 40%;
+  padding-left: 40%;
 }
 h4{
-    color: whitesmoke;
+  color: whitesmoke;
 }
 .wilder{
-    display: none;
+  display: none;
 }
 .abu{
   text-align: center;
@@ -110,8 +110,5 @@ h4{
   text-align: center;
 }
 .abd{
-padding-left: 50%
+  padding-left: 50%
 }
-#portfolio {
-     text-align: center;
- }
