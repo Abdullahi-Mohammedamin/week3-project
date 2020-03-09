@@ -17,7 +17,7 @@ $(document).ready(function() {
   });
   $(".semi").click(function() {
     $(".semi").toggle()
-    $(".silva").toggle();
+$(".silva").toggle();
   });
   $(".silva").click(function() {
     $(".semi").toggle()
